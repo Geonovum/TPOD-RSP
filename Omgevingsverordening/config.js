@@ -58,11 +58,11 @@ var respecConfig =
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
   //publishDate: "2019-10-08",  	    // Format is "YYYY-MM-DD"
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/geonovum/TPOD-PUB",
+  github: "https://github.com/geonovum/TPOD-RSP",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/geonovum/TPOD-PUB",
+  issueBase: "https://github.com/geonovum/TPOD-RSP",
   //-- edDraftURI: de URI van de werkversie van het document
-  edDraftURI: "https://github/geonovum/TPOD-PUB",
+  edDraftURI: "https://github/geonovum/TPOD-RSP",
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
@@ -164,12 +164,12 @@ var respecConfig =
   //subtitle: "iets",                         // Subtitel van het document
   //maxTocLevel: 3,                           // Aantal niveau's ToC, default is 0
   //-- LOGO: Hier kan je een ander logo opgeven indien nodig
-  //logos: [{
-  //  src: "https://tools.geostandaarden.nl/respec/style/logos/OmgevingswetLogo.svg",
-  //  alt: "Standaarden Omgevingswet",
-  //  id: "TopLogo",
-  //  height: 67,
-  //  width: 300,
-  //  url: "https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD"
-  // }],
+  logos: [{
+    src: "https://tools.geostandaarden.nl/respec/style/logos/OmgevingswetLogo.svg",
+    alt: "Standaarden Omgevingswet",
+    id: "TopLogo",
+    height: 67,
+    width: 300,
+    url: "https://www.geonovum.nl/geo-standaarden/omgevingswet/STOPTPOD"
+   }],
 };
