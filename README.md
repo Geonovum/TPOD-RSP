@@ -5,8 +5,8 @@ NB: De documenten in deze repository zijn nog "under-construction" en derhalve n
 
 Een overzicht van de verschillende documenten vindt u hieronder:
 
-| Document                                                                                              |  
-|-------------------------------------------------------------------------------------------------------|  
-| [TPOD Omgevingsvisie](https://geonovum.github.io/TPOD-RSP/Omgevingsvisie/)                            |  
-| [TPOD Omgevingsverordening](https://geonovum.github.io/TPOD-RSP/Omgevingsverordening/)                |  
-
+| Document                                                                               | Markdown  | Tabellen | Afbeeldingen |   
+|----------------------------------------------------------------------------------------|-----------|----------|--------------|  
+| [TPOD Omgevingsvisie](https://geonovum.github.io/TPOD-RSP/Omgevingsvisie/)             | Ja        | Deels    | Ja           |
+| [TPOD Omgevingsverordening](https://geonovum.github.io/TPOD-RSP/Omgevingsverordening/) | Ja        | Nee      | Nee          |
+ 
