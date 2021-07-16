@@ -10,7 +10,7 @@ Een overzicht van de verschillende documenten (en de status van de omzetting) st
 
 |##| Document                                                                                  | Markdown | Tabellen | Afbeeldingen |   
 |--|-------------------------------------------------------------------------------------------|----------|----------|--------------|  
-|01|[TPOD AMVB en MR](https://geonovum.github.io/TPOD-RSP/AMVBenMR/)                           | Nee      | Nee      | Nee          |
+|01|[TPOD AMVB en MR]<!--(https://geonovum.github.io/TPOD-RSP/AMVBenMR/)-->                           | Nee      | Nee      | Nee          |
 |02|[TPOD Omgevingsplan](https://geonovum.github.io/TPOD-RSP/Omgevingsplan/)                   | Nee      | Nee      | Nee          |
 |03|[TPOD Omgevingsverordening](https://geonovum.github.io/TPOD-RSP/Omgevingsverordening/)     | Ja       | Nee      | Nee          |
 |04|[TPOD Omgevingsvisie](https://geonovum.github.io/TPOD-RSP/Omgevingsvisie/)                 | Ja       | Deels    | Ja           |
