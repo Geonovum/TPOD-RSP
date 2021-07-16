@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang='nl'>
+  <!-- HTML-Header - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+  <head>
+        <meta charset='utf-8'>
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <!-- File. . . :  index.html                                                                 -->
+        <!-- Bevat . . :  Template voor de index.html die verplicht is voor respec                   -->
+        <!--              Gebaseerd op https://github.com/Geonovum/respec/wiki                       -->
+        <!--              Deze file moet worden neergezet in de root-directory van de                -->
+        <!--              betreffende standaard.                                                     -->
+        <!-- Door. . . :  Jan van Gelder                                                             -->
+        <!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <!-- Log . . . :  20181015 - JvG - Initiele versie                                           -->
+        <!-- - - - - - - -20191022 - IE - ReSpec file Handreiking Archiveren ruimtelijke plannen     -->
+		<!-- - - - - - - - - - - - - - - -                          -  - - - - - - - - - - - - - - - -->
+
+        <!-- meta tags - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <meta content="text/html; charset=utf-8" http-equiv="content-type">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        
+        <!-- Invullen: de titel van de standaard of het document - - - - - - - - - - - - - - - - - - -->
+        <title>TPOD - Natura2000-Besluiten</title>    
+
+        <!-- Kan hier een 'ondertitel' tag worden gemaakt? -->
+		
+        <!-- Invullen: de naam van de lokale CSS file  - - - - - - - - - - - - - - - - - - - - - - - -->
+        <link rel="stylesheet" type="text/css" href="./media/Geonovumstyle.css">
+		<link rel='shortcut icon' type='image/x-icon' href='https://tools.geostandaarden.nl/respec/style/logos/Geonovum.ico' />
+        <script class="remove" src="./config.js"></script>
+        <script class='remove' src='https://tools.geostandaarden.nl/respec/builds/respec-geonovum.js' async></script>
+    </head>
+    <!-- HTML-Body - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+    <body>
+
+        <section id='abstract' data-format="markdown" data-include="Colofon.md"></section>
+        <!-- sodt = 'status of this document'. ReSpec genereert automatisch een tekst hierin - - - - -->
+        <!-- op basis van specType en specStatus.- - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <!-- Deze automatische tekst kun je aanvullen door tussen <p></p> iets te typen. - - - - - - -->
+        <section id='sotd'></section>
+
+        <!-- vanaf hier per hoofdstuk een sectie of een div in het document- - - - - - - - - - - - - -->
+        <!-- Secties komen in de inhoudsopgave div's niet- - - - - - - - - - - - - - - - - - - - - - -->
+        <!-- Secties hebben verplicht <h2> tags, div's niet- - - - - - - - - - - - - - - - - - - - - -->
+
+        <!-- Voorbeelden:- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <!-- <div id='H00' data-format="markdown" data-include="filenaam.md"></div>- - - - - - - - - -->
+        <!-- voor een nieuw hoofdstuk kopieer je een regel, en voegt die toe - - - - - - - - - - - - -->
+
+<!-- BEGIN DEZE WEGHALEN 
+        <bbb>A - Uitgangspunten voor de modellering</bbb>
+	    <section data-format="markdown" data-include="Inleiding.md"></section>	
+        <section data-format="markdown" data-include="Inhoudelijke_Aspecten.md"></section>
+        <section data-format="markdown" data-include="Uitgangspunten_voor_de_toepassingsprofielen.md"></section>
+
+        <bbb>B - Modellering van de omgevingsvisie</bbb>
+        <p>Dit deel beschrijft de modellering van de omgevingsverordening en voorziet in de vertaling van (een deel van) de kenmerken van de tabellen uit hoofdstuk 2 naar 
+            het model dat de kenmerken structureert en aan elkaar relateert. Het model legt uit hoe de omgevingsverordening zodanig gestructureerd wordt, dat het machineleesbaar 
+            en op een gestandaardiseerde manier uitwisselbaar wordt.
+            Hoofdstuk 4 beschrijft de vormgeving van Besluit en Regeling bij de omgevingsverordening. In hoofdstuk 5 wordt de toepassing van de STOP-tekststructuren op de 
+            omgevingsverorde-ning beschreven. Hoofdstuk 6 geeft een inleiding op het Informatiemodel Omgevingswet (IMOW). Hoofdstuk 7 beschrijft in detail het annoteren met
+            OW-objecten van de omge-vingsverordening. In hoofdstuk 8 komen de resterende modelleringsaspecten aan de orde.
+            IMOW en de toepassing daarvan vormen een domeinspecifieke toepassing van STOP. Om een omgevingsdocument op te stellen en juridisch juist te kunnen bekendmaken 
+            is het ui-teraard ook nodig om te voldoen aan de specificaties van STOP. Die zijn voor zover nodig en mogelijk in dit toepassingsprofiel beschreven. 
+            Voor het overige wordt verwezen naar de STOP-standaard.
+        </p>
+        <section data-format="markdown" data-include="De_vormgeving_van_Besluit_en_Regeling_bij_de_omgevingsvisie.md"></section>
+        <section data-format="markdown" data-include="Toepassing_van_de_STOP_tekststructuren_op_omgevingsdocumenten.md"></section>
+        <section data-format="markdown" data-include="Inleiding_op_het_Informatiemodel_Omgevingswet.md"></section>
+        <section data-format="markdown" data-include="Annoteren_met_OW_objecten.md"></section>
+        <section data-format="markdown" data-include="Overige_modelleringsaspecten_van_de_omgevingsverordening.md"></section>
+
+        <bbb>C - Aspecten van de aanlevering</bbb>
+        <p>In dit deel worden vier aanleveringsaspecten beschreven: de identificatie van Regelingver-sies van omgevingsdocumenten door middel van Doel (paragraaf 9.1)
+            het aangeven van de procedurestatus van een besluit tot vaststelling of wijziging van omgevingsdocumenten en de doorwerking daarvan in de geconsolideerde Regeling (paragraaf 9.2), 
+            de kennisgeving van de terinzagelegging van ontwerpbesluiten en van genomen besluiten (paragraaf 9.3) en tot slot het muteren van OW-objecten (paragraaf 9.4).
+        </p>
+        <section data-format="markdown" data-include="Aanlevering_van_omgevingsdocumenten.md"></section>
+
+        <bbb>D - Bijlagen</bbb>
+        <section data-format="markdown" data-include="Bijlagen.md"></section>
+    EINDE DEZE WEGHALEN-->
+        
+        <!-- genereer hier een afbeeldingen lijst- - - - - - - - - - - - - - - - - - - - - - - - - - -->
+        <section id="tof"><h2>Lijst van afbeeldingen</h2></section>
+    
+    </body>
+</html>
