@@ -34,18 +34,17 @@ https://gitlab.com/koop/STOP/standaard/-/issues.
 | 2.0.0-rc | 2021-06-15 | Paragraaf 2.4 Overgangsrecht en overgangsfase<br>- Beschrijving van de onderdelen waaruit het tijdelijk deel van het omgevingsplan bestaat aangevuld met de rechtsfiguren die daar als gevolg van de Aanvullingswet bodem aan zijn toegevoegd|
 | 2.0.0-rc | 2021-06-15 | Paragraaf 3.5 Waardelijsten<br>- Toegevoegd dat de waardelijsten zijn vastgelegd in de Stelselcatalogus |
 | 2.0.0-rc | 2021-06-15 | Paragraaf 3.6 Presentatiemodel<br>- Verwijderd beschrijving attribuut *specifiekeSymbolisatie*<br>- Verwijderd beschrijving dat Presentatiemodel vastlegt hoe wijzigingen in wijzigingsbesluit worden gepresenteerd<br>- Verwerkt dat de symboolcodes voor de standaardweergave niet langer in een afzonderlijke symbolisatietabel staan, maar zijn opgenomen in de IMOW-waardelijsten |
-| 2.0.0-rc | 2021-06-15 | Hoofdstuk 4 De vormgeving van Besluit en Regeling in de omgevingsvisie
-<br>- Hoofdstuk volledig vervangen door nieuwe tekst. Daarin is de beschrijving van de drie onderdelen van het besluit vervangen door de beschrijving van de vormgeving en onderdelen van Besluit en regeling aan de hand van de STOP-modellen |
+| 2.0.0-rc | 2021-06-15 | Hoofdstuk 4 De vormgeving van Besluit en Regeling in de omgevingsvisie<br>- Hoofdstuk volledig vervangen door nieuwe tekst. Daarin is de beschrijving van de drie onderdelen van het besluit vervangen door de beschrijving van de vormgeving en onderdelen van Besluit en regeling aan de hand van de STOP-modellen |
 | 2.0.0-rc | 2021-06-15 | Hoofdstuk 5 Toepassing van de STOP-tekststructuren op omgevingsdocumenten<br>-Hoofdstuk herschreven zodat het beter aansluit op STOP in de beschrijving welke onderdelen van Besluit en Regeling Artikelstructuur respectievelijk Vrijetekststructuur hebben |
 | 2.0.0-rc | 2021-06-15 | Paragraaf 5.2 Specificatie van de Vrijetekststructuur<br>- Norm en toelichting aangepast op gewijzigd inzicht over positie van het element Divisietekst in de modellen: geen structuurelement maar inhoudelijke bouwsteen<br>- Bepaling dat de Kop van Divisietekst in een aantal gevallen verplicht is gewijzigd in altijd optioneel<br>- Toelichting volledig herschreven en afbeeldingen toegevoegd |
-| 2.0.0-rc | 2021-06-15 | Hoofdstuk 6 Inleiding op het Informatiemodel Omgevingswet                                                                                                        |
-| 2.0.0-rc | 2021-06-15 | Paragraaf 7.1 Productmodel: het IMOW-UML-diagram voor de omgevingsvisie                                                                                          |
+| 2.0.0-rc | 2021-06-15 | Hoofdstuk 6 Inleiding op het Informatiemodel Omgevingswet<br>- Dit is het inleidende deel van het voormalige zeer uitgebreide Hoofdstuk 6, dat nu is gesplitst in 2 hoofdstukken. De detailbeschrijving van de objecttypen staat nu in Hoofdstuk 7 |
+| 2.0.0-rc | 2021-06-15 | Paragraaf 7.1 Productmodel: het IMOW-UML-diagram voor de omgevingsvisie<br>-Productmodel vervangen door nieuwe versie, geactualiseerd op de hierna volgende punten |
 | 2.0.0-rc | 2021-06-15 | Paragrafen 7.2 t/m 7.8 expliciet beschreven dat annotaties met OW-objecten alleen kunnen worden toegepast op het Lichaam van de Regeling van omgevingsdocumenten |
-| 2.0.0-rc | 2021-06-15 | Paragraaf 7.2 Objecttype Divisie                                                                                                                                 |
-| 2.0.0-rc | 2021-06-15 | Paragraaf 7.3 Objecttype Divisietekst                                                                                                                            |
-| 2.0.0-rc | 2021-06-15 | Paragraaf 7.4 Objecttype Tekstdeel                                                                                                                               |
-| 2.0.0-rc | 2021-06-15 | Paragraaf 7.5 Objecttype Hoofdlijn                                                                                                                               |
-| 2.0.0-rc | 2021-06-15 | Paragraaf 7.6 Locatie                                                                                                                                            |
+| 2.0.0-rc | 2021-06-15 | Paragraaf 7.2 Objecttype Divisie<br>- Toegevoegd de opmerking dat in omgevingsdocumenten met Vrijetekststructuur geannoteerd kan worden op (STOP)structuurelementen én op STOP-elementen die inhoud bevatten en wanneer naar verwachting de ene of juist de andere mogelijkheid toegepast zal worden<br>- Toegevoegd beschrijving van onderscheid tussen Divisie en Divisietekst<br>- Definitie aangepast i.v.m. introductie van het objecttype Divisietekst in IMOW<br>- Uitsnede uit IMOW-diagram aangepast |
+| 2.0.0-rc | 2021-06-15 | Paragraaf 7.3 Objecttype Divisietekst<br>- Paragraaf toegevoegd i.v.m. introductie van het objecttype Divisietekst in IMOW |
+| 2.0.0-rc | 2021-06-15 | Paragraaf 7.4 Objecttype Tekstdeel<br>- Toegevoegd dat Tekstdeel zowel bij Divisie als bij Divisietekst kan voorkomen<br>- Gewijzigd de beschrijving van het attribuut *divisieaanduiding* i.v.m. de introductie van het keuze-element DivisieOfDivisietekst, waarmee de keuze tussen Divisie en Divisietekst wordt gemaakt<br>- Toegevoegd attribuut *kaartaanduiding*. Dit attribuut was al vermeld in de paragraaf over het objecttype Kaart maar niet bij het objecttype Tekstdeel waar het hoort<br>- Uitsnede uit IMOW-diagram aangepast |
+| 2.0.0-rc | 2021-06-15 | Paragraaf 7.5 Objecttype Hoofdlijn<br>- Toegevoegd opmerking over de mogelijkheid om in omgevingsdocumenten met Vrijetekststructuur te annoteren op (STOP)structuurelementen én op STOP-elementen die inhoud bevatten |
+| 2.0.0-rc | 2021-06-15 | Paragraaf 7.6 Locatie<br>- Vastgelegd dat naar Ambtsgebied altijd statisch verwezen moet worden; dynamisch verwijzen is vanwege de mogelijkheid van bestuurlijke herindeling onwenselijk gebleken<br>- Kader met dynamisch verwijzen naar Ambtsgebied als Toekomstige functionaliteit verwijderd<br>- Toegevoegd toelichting over aanleveren Ambtsgebied |
 | 2.0.0-rc | 2021-06-15 | Paragraaf 7.8 Objecttype Gebiedsaanwijzing                                                                                                                       |
 | 2.0.0-rc | 2021-06-15 | Paragraaf 7.9 Objecttype SymbolisatieItem                                                                                                                        |
 | 2.0.0-rc | 2021-06-15 | Paragraaf 7.10 Objecttype Kaart                                                                                                                                  |
@@ -64,53 +63,19 @@ https://gitlab.com/koop/STOP/standaard/-/issues.
 -   
 -   
 
--   Dit is het inleidende deel van het voormalige zeer uitgebreide Hoofdstuk 6,
-    dat nu is gesplitst in 2 hoofdstukken. De detailbeschrijving van de
-    objecttypen staat nu in Hoofdstuk 7
+-   
 
--   Productmodel vervangen door nieuwe versie, geactualiseerd op de hierna
-    volgende punten
+-   
 
--   Toegevoegd de opmerking dat in omgevingsdocumenten met Vrijetekststructuur
-    geannoteerd kan worden op (STOP)structuurelementen én op STOP-elementen die
-    inhoud bevatten en wanneer naar verwachting de ene of juist de andere
-    mogelijkheid toegepast zal worden
+-   
 
--   Toegevoegd beschrijving van onderscheid tussen Divisie en Divisietekst
+-   
 
--   Definitie aangepast i.v.m. introductie van het objecttype Divisietekst in
-    IMOW
+-   
 
--   Uitsnede uit IMOW-diagram aangepast
 
--   Paragraaf toegevoegd i.v.m. introductie van het objecttype Divisietekst in
-    IMOW
 
--   Toegevoegd dat Tekstdeel zowel bij Divisie als bij Divisietekst kan
-    voorkomen
 
--   Gewijzigd de beschrijving van het attribuut *divisieaanduiding* i.v.m. de
-    introductie van het keuze-element DivisieOfDivisietekst, waarmee de keuze
-    tussen Divisie en Divisietekst wordt gemaakt
-
--   Toegevoegd attribuut *kaartaanduiding*. Dit attribuut was al vermeld in de
-    paragraaf over het objecttype Kaart maar niet bij het objecttype Tekstdeel
-    waar het hoort
-
--   Uitsnede uit IMOW-diagram aangepast
-
--   Toegevoegd opmerking over de mogelijkheid om in omgevingsdocumenten met
-    Vrijetekststructuur te annoteren op (STOP)structuurelementen én op
-    STOP-elementen die inhoud bevatten
-
--   Vastgelegd dat naar Ambtsgebied altijd statisch verwezen moet worden;
-    dynamisch verwijzen is vanwege de mogelijkheid van bestuurlijke herindeling
-    onwenselijk gebleken
-
--   Kader met dynamisch verwijzen naar Ambtsgebied als Toekomstige
-    functionaliteit verwijderd
-
--   Toegevoegd toelichting over aanleveren Ambtsgebied
 
 -   Toelichting op de toepassing herschreven en tabel toegevoegd met overzicht
     welk Gebiedsaanwijzingtype in welk omgevingsdocument toegepast kan worden
