@@ -133,7 +133,7 @@ werking van de standaardweergave zien voor een annotatie met een
 Gebiedsaanwijzing.
 
 <figure id="60ce1a4c781961dc481587f7f75b45e1">
-    <img src="media/60ce1a4c781961dc481587f7f75b45e1.png" alt="Presentatiemodel: annoteren met object, type en groep, in combinatie met symboolcode uit waardelijst IMOW, toepassing standaardweergave">
+    <img src="../Generiek/media/60ce1a4c781961dc481587f7f75b45e1.png" alt="Presentatiemodel: annoteren met object, type en groep, in combinatie met symboolcode uit waardelijst IMOW, toepassing standaardweergave">
     <figcaption>Presentatiemodel: annoteren met object, type en groep, in combinatie met symboolcode uit waardelijst IMOW, toepassing standaardweergave </figcaption>
 </figure>
 
@@ -174,7 +174,7 @@ specifieke symbolisatie geven aan ActiviteitLocatieaanduiding, Normwaarde en (de
 verschillende typen) Gebiedsaanwijzing.
 
 <figure id="8fed33230629a51cc5653918418977f5">
-    <img src="media/8fed33230629a51cc5653918418977f5.png" alt="Presentatiemodel: annoteren met object en groep, in combinatie met de symboolcode uit de waardelijsten IMOW, toepassing standaardweergave (links) en eigen weergave (rechts)">
+    <img src="../Generiek/media/8fed33230629a51cc5653918418977f5.png" alt="Presentatiemodel: annoteren met object en groep, in combinatie met de symboolcode uit de waardelijsten IMOW, toepassing standaardweergave (links) en eigen weergave (rechts)">
     <figcaption>Presentatiemodel: annoteren met object en groep, in combinatie met de symboolcode uit de waardelijsten IMOW, toepassing standaardweergave (links) en eigen weergave (rechts)</figcaption>
 </figure>
 
@@ -231,7 +231,7 @@ OW-objecten worden gedistribueerd naar DSO-LV ten behoeve van het
 Omgevingsloket.
 
 <figure id="42f3946500bb14921a61884f24e83523">
-    <img src="media/42f3946500bb14921a61884f24e83523.png" alt="Aanleverproces">
+    <img src="../Generiek/media/42f3946500bb14921a61884f24e83523.png" alt="Aanleverproces">
     <figcaption>Aanleverproces</figcaption>
 </figure>
 
